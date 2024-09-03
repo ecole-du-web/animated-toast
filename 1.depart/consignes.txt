@@ -1,0 +1,10 @@
+Créer des Notifications Toast Animées en JavaScript
+
+Le but de cet exercice est de créer un morceau d'interface(toast) contenant des informations lorsqu'on clique sur un bouton "ajouter au panier".
+
+Ce toast contient un texte "Produit ajouté au panier ! 🛒" et deux boutons : "voir le panier" et "finaliser l'achat".
+
+Ce toast aura également une barre de progression liée à la disparation du toast. 
+Cette barre s'étendra lors des 4 secondes de l'apparition du toast.
+
+On doit pouvoir cliquer plusieurs fois sur "ajouter au panier", et donc reset l'animation à chaque fois qu'on clique dessus.
